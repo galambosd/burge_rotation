@@ -1,2 +1,4 @@
 *.tsv
 *.gff3
+*.bed.gz
+*.bed
